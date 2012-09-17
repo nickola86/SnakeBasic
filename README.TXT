@@ -1,0 +1,1 @@
+Launch the file snake/snake.html in a modern browser 
